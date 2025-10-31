@@ -2,11 +2,14 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# Green Team
 
-This contains everything you need to run your app locally.
+Привет! Мы команда **Зелёные**. И это наш проект по оценке 360 для корпораций.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1XN67Tc_m3LCyc2xLGpInw2rV9MxoDj6v
+Миронова Ольга - PO
+Припеченков Илья - BE
+Сикорский Игорь -  Design
+Хамикоева Ольга - BA
 
 ## Run Locally
 
