@@ -74,6 +74,9 @@ _Рассказываем и показываем, как в будущем до
 _Здесь всё: как мы мыслили, как мы работали и как шутили! Тут же вы найдете бизнес-требования, схемы данных и другую важную документацию_
 
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 ## Run Locally
