@@ -73,7 +73,7 @@ _Рассказываем и показываем, как в будущем до
 
 _Здесь всё: как мы мыслили, как мы работали и как шутили! Тут же вы найдете бизнес-требования, схемы данных и другую важную документацию_
 
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
 
 ## Run Locally
