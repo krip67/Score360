@@ -49,15 +49,19 @@ _Любому продукту важно понимать свою оценку
 
 _Рассказываем и показываем, как работает наш МВП_
 
-4. Макеты:
+4. Макеты: https://www.figma.com/design/IJ9Wq1w28BLGnedFuLn181/%D0%92%D0%BE%D0%B9%D1%82%D0%B8-%D0%B2-%D0%98%D0%A2?node-id=171-2025&t=yWgLZr7nsfwBnP5b-1
 
 _Мы стремимся к идеальному решению, но в короткие сроки выпускаем МВП. С целевой картиной можно ознакомиться в макетах._
 
-5. Демо прототипа:
+5. Прототип:
+
+_Когда-то будет так!_
+
+7. Демо прототипа:
 
 _Рассказываем и показываем, как в будущем должен будет выглядеть проект_
 
-6. Рабочее пространство команды:
+8. Рабочее пространство команды: https://miro.com/welcomeonboard/aTZLQUJPL0diRjA0dFpMZ1pzMU9WQlRsb01PS3VsZmJqZUg3YjhXcmhDZlUzRE56STVKODZaQ3lJNkZCeklzNG9mTjlrTkt2U2NDZTFob0o2b1BkK24wSkdtR0Zvb0gyT3Y5YTBSQVNrL3hFdTdQbitLcmxUTjAzZzQ4YXR6eEhzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=688751937884
 
 _Здесь всё: как мы мыслили, как мы работали и как шутили! Тут же вы найдете бизнес-требования, схемы данных и другую важную документацию_
 
