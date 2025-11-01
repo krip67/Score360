@@ -43,7 +43,7 @@
    olga.h/olga
 
 ## Артефакты
-1. Презентация:
+1. Презентация: https://drive.google.com/file/d/1EzkR7mlc1p8incf_AC8GUMfZkovqgFdU/view?usp=sharing
 
 _Здесь вы можете ознакомиться с бизнес представлением нашего решения_
 
