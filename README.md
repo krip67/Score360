@@ -94,3 +94,10 @@ _Здесь всё: как мы мыслили, как мы работали и 
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+**For backend**
+1. Собрать jar
+2. `mvn clean package -Dquarkus.package.type=uber-jar`
+3. Запустить:
+   `java -jar target/code-with-quarkus-1.0.0.jar`
+   
